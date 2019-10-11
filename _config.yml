@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Support Engineer & Data Scintist"
   location         : "Ain Salah , Algeria"
-  email            :
+  email            :"Brahimchaoudi@hotmail.com"
   links:
     - label: " Brahimchaoudi@hotmail.com "
       icon: "fas fa-fw fa-envelope-square"
@@ -141,7 +141,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "Ch-Ibrahim"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
@@ -293,8 +293,8 @@ defaults:
       share: true
       related: true
  # _pages
- - scope:
-     path: ""
+- scope:
+      path: ""
      type: pages
      values:
      layout: single
