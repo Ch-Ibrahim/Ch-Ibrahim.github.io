@@ -113,7 +113,7 @@ author:
   location         : "Ain Salah , Algeria"
   email            :
   links:
-    - label: "Brahimchaoudi@hotmail.com"
+    - label: " Brahimchaoudi@hotmail.com "
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -125,7 +125,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "Ch-Ibrahim"
+    - label: " Ch-Ibrahim "
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
@@ -294,8 +294,8 @@ defaults:
       related: true
  # _pages
  - scope:
-     path:""
+     path: ""
      type: pages
-     values :
+     values:
      layout: single
      author_profile: true
