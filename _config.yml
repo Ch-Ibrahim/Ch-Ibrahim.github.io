@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Ibrahim Chaoudi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IT Support Engineer & Data Scintist"
+  bio              : "IT Support Engineer & Data Scientist"
   location         : "Ain Salah , Algeria"
   email            : "Brahimchaoudi@hotmail.com"
   links:
@@ -125,10 +125,10 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: " Ch-Ibrahim "
+    - label: "Ch-Ibrahim"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "ibrahimchaoudi"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
