@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Support Engineer & Data Scintist"
   location         : "Ain Salah , Algeria"
-  email            :"Brahimchaoudi@hotmail.com"
+  email            : "Brahimchaoudi@hotmail.com"
   links:
     - label: " Brahimchaoudi@hotmail.com "
       icon: "fas fa-fw fa-envelope-square"
