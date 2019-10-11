@@ -20,7 +20,7 @@ title                    : "Ibrahim Chaoudi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ibrahim Chaoudi"
-description              : " IT Support Engineer & Data Scintist  "
+description              : "IT Support Engineer & Data Scintist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Ibrahim Chaoudi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IT Support Engineer & Data Scintist "
-  location         : "Ain Salah , Algeria "
+  bio              : "IT Support Engineer & Data Scintist"
+  location         : "Ain Salah , Algeria"
   email            :
   links:
     - label: "Brahimchaoudi@hotmail.com"
