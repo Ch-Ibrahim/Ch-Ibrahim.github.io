@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ibrahim Chaoudi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/3.JPEG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Support Engineer & Data Scintist "
   location         : " Tamanrasset, Algeria  "
   email            :
@@ -127,8 +127,8 @@ author:
       # url: "https://facebook.com/"
     - label: "Ch-Ibrahim"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
+      # url: " https://github.com/Ch-Ibrahim "
+    - label: "ibrahimchaoudi"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
@@ -140,9 +140,6 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -292,10 +289,10 @@ defaults:
       comments: # true
       share: true
       related: true
-    # _pages 
-      -scope:
-        path:""
-        type: Pages
-          values:
-            layout:single
-            author_profile:true
+      # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
