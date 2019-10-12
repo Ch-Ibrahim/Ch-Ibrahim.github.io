@@ -125,9 +125,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "Github"
+    - label: "github"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Ch-Ibrahim"
+      # url: " https://github.com/Ch-Ibrahim "
     - label: "ibrahimchaoudi"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,9 +141,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "Ch-Ibrahim"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/Ch-Ibrahim"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
