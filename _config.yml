@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ibrahim Chaoudi"
+title                    : "Ibrahim Chaoudi Portfolio "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ibrahim Chaoudi"
@@ -125,9 +125,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "@Ch-Ibrahim"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/Ch-Ibrahim"
     - label: "ibrahimchaoudi"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
