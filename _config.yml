@@ -112,14 +112,15 @@ author:
   bio              : "IT Support Engineer & Data Scientist"
   location         : "Ain Salah , Algeria"
   email            : "Brahimchaoudi@hotmail.com"
+  GitHub           :"Ch-Ibrahim"
   links:
-    - label: " email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "https://twitter.com/ZODIACRO"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
