@@ -107,13 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ibudirahim Chao"
+  name             : "Ibrahim Chaoudi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "55555"
+  bio              : "IT Support Engineer & Data Scientist"
   location         : "Ain Salah , Algeria"
   email            : "Brahimchaoudi@hotmail.com"
   links:
-    - label: " Brahimchaoudi@hotmail.com "
+    - label: " email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
