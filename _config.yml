@@ -112,7 +112,6 @@ author:
   bio              : "IT Support Engineer & Data Scientist"
   location         : "Ain Salah , Algeria"
   email            : "Brahimchaoudi@hotmail.com"
-  GitHub           :"Ch-Ibrahim"
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,4 +292,10 @@ defaults:
       comments: # true
       share: true
       related: true
- 
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
