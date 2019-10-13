@@ -111,9 +111,9 @@ author:
   avatar           : "/images/3.JPEG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Support Engineer & Data Scintist "
   location         : " Tamanrasset, Algeria  "
-  email            :
+  email            : "Brahimchaoudi@hotmail.com"
   links:
-    - label: "Brahimchaoudi@hotmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -130,7 +130,7 @@ author:
       # url: " https://github.com/Ch-Ibrahim "
     - label: "ibrahimchaoudi"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
 
 
 # Reading Files
