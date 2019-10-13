@@ -130,7 +130,7 @@ author:
       # url: " https://github.com/Ch-Ibrahim "
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
+      # url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       # url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
+        url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
 
 
 # Reading Files
