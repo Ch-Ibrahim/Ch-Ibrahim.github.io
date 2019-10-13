@@ -1,10 +1,11 @@
 ---
-layout: archive
-permalink:/Machine- learning/
-title: "Machine learning Posts"
+
+layout:  archive
+permalink: /Machine- learning/
+title: "Machine learning Posts by Tags"
 author_profile: true
 header: 
-	image: "/images/1.JPEG"
+         image:"/images/1.JPEG"
 ---
 
 {% include base_path %}
