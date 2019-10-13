@@ -108,12 +108,12 @@ analytics:
 # Site Author
 author:
   name             : "Ibrahim Chaoudi"
-  avatar           : "/images/3.JPEG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Support Engineer & Data Scintist "
   location         : " Tamanrasset, Algeria  "
-  email            :
+  email            : "Brahimchaoudi@hotmail.com"
   links:
-    - label: "Brahimchaoudi@hotmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"

@@ -2,7 +2,7 @@
 title:"About"
 peramlink:/about/
 header:
-	image:"/images/2.JPEG"
+	image:"/images/Tam.jpg"
 ---
 
 I am Ibrahim Chaoudi from algeria 
