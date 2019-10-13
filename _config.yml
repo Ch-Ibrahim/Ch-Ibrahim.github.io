@@ -121,13 +121,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/ZODIACRO"
+       # url: "https://twitter.com/ZODIACRO"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "Ch-Ibrahim"
       icon: "fab fa-fw fa-github"
-       url: " https://github.com/Ch-Ibrahim "
+       # url: " https://github.com/Ch-Ibrahim "
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/ibrahimchaoudi/?hl=fr"
@@ -137,13 +137,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: " https://twitter.com/ZODIACRO"
+      # url: " https://twitter.com/ZODIACRO"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-       url: " https://github.com/Ch-Ibrahim "
+      # url: " https://github.com/Ch-Ibrahim "
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -193,7 +193,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "<!--more-->" #"\n\n"
+excerpt_separator: #"\n\n"
 incremental: false
 
 
